@@ -1,0 +1,65 @@
+let JeevanSelvarajResume={
+    Header: {
+      name: "JEEVAN SELVARAJ",
+      "email": "jselvaraj010@gamil.com",
+      "phone": 948947XXX,
+      "location": {
+        "address": "15/16 Gandhipuram Palani",
+        "postalCode": 600030,
+        "city": "Palani",
+        "state": "Tamilnadu",
+        "country": "India"
+      },
+      "profiles": [
+        {
+             Linkedin:"https://www.linkedin.com/in/jeevan-selvaraj/"
+              Github: "https://github.com/Jeevan-30"
+        }
+      ]
+    },
+    
+
+"work": [
+      {
+        "company": "XXXX Pvt Ltd",
+        "position": "Senior Executive",
+        "startDate": "2021-11-04",
+        "endDate": "Present",
+        "summary": "i am the business executive handling various task and gaining lots of experience",
+      },
+    ],
+    "education": [
+      {
+        "institution": "Thiagarajar College Of Engineering",
+        "department": "EEE",
+        "studyType": "fulltime",
+        "batch start year": 2015,
+        "batch end year": 2019,
+        "gpa": 8.5,
+      }
+    ],
+    
+
+
+"skills": [
+      {
+        "name": "python,javascript",
+        "level": "beginer",
+        "project": [
+          "automatic attendance maintaing system using python language"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish",
+      }
+    ],
+    "interests": [
+      {
+        "name": "script writter,youtuber,",
+      }
+    ]
+  }
+  console.log(JeevanSelvarajResume);
+  
